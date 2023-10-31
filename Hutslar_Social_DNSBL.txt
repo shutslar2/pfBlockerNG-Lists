@@ -2,9 +2,9 @@
 # Updated: June 27, 2021
 
 # Google Plus
-#127.0.0.1 plus.l.google.com
-#127.0.0.1 plus.sandbox.google.com
-#127.0.0.1 plusone.google.com
+#plus.l.google.com
+#plus.sandbox.google.com
+#plusone.google.com
 plus.google.com
 
 # Facebook
